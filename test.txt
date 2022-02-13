@@ -1,1 +1,1 @@
-!cmd cd
+cd
