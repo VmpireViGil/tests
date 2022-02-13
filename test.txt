@@ -1,1 +1,1 @@
-dir
+browse https:\\www.youtube.com\
