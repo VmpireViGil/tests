@@ -1,1 +1,1 @@
-browse, https:\\www.youtube.com\
+keylog, 10
